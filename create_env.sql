@@ -65,10 +65,6 @@ create table carica.wrk_log (
     note varchar(2000),
 	d_ins date default sysdate
 );
--- crea tabella vuota, per testare il commit
-create table carica.vuota (
-	id_vuota number
-);
 
 -- pacchetto che contient le funzioni f_is_positive, f_is_numeric, f_is_cf, f_is_valid, p_log
 CREATE OR REPLACE PACKAGE carica.pkg_controls_01 AS
