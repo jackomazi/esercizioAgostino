@@ -1,0 +1,55 @@
+
+SQL*Loader: Release 19.0.0.0.0 - Production on Mar Ago 26 15:20:17 2025
+Version 19.3.0.0.0
+
+Copyright (c) 1982, 2019, Oracle and/or its affiliates.  All rights reserved.
+
+Control file:   c:\esercizioAgostino\data\sqlloader.ctl
+File di Dati:        c:\esercizioAgostino\data\dati.csv
+  File errato:    c:\esercizioAgostino\bad\bad_sqlloader.txt
+  File dei dati scartati:  nessuna specificata
+ 
+ (Consente di scartare tutto)
+
+Numero da caricare: ALL
+Numero da saltare: 0
+Errori consentiti: 50
+Array di associazione:     250 righe, massimo 1048576 byte
+Continuazione:    nessuna specificata
+Percorso usato:      Convenzionale
+
+Tabella CARICA.DATI00, caricata da ogni record logico.
+Inserire opzione attiva per questa tabella: INSERT
+Opzione TRAILING NULLCOLS attiva
+
+   Nome colonna                  Posizione   Lun  Term Agg Tipo dati
+------------------------------ ---------- ----- ---- ---- ---------------------
+CF                                  FIRST     *   ;       CHARACTER            
+NOME                                 NEXT     *   ;       CHARACTER            
+COGNOME                              NEXT     *   ;       CHARACTER            
+SALARIO                              NEXT     *   ;       CHARACTER            
+
+Record 2: rifiutato - Errore nella tabella CARICA.DATI00, colonna CF.
+ORA-12899: valore troppo grande per la colonna "CARICA"."DATI00"."CF" (corrente: 188, massimo: 100)
+
+
+Tabella CARICA.DATI00:
+  caricamento di 50 Righe riuscito.
+  1 Riga non caricate causa errori nei dati.
+  0 Righe non caricate perché nessuna clausola WHEN è riuscita.
+  0 Righe non caricate perché tutti i campi erano nulli.
+
+
+Spazio assegnato all'array di associazione:                 258000 byte (250 righe)
+Byte buffer di lettura: 1048576
+
+Totale dei record logici saltati:          0
+Totale dei record logici letti:            51
+Totale dei record logici rifiutati:         1
+Totale dei record logici scartati:        0
+
+Esecuzione iniziata il Mar Ago 26 15:20:17 2025
+Esecuzione terminata il Mar Ago 26 15:20:18 2025
+
+Tempo impiegato:      00:00:01.07
+Tempo CPU:            00:00:00.14

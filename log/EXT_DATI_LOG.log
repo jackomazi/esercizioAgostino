@@ -1,0 +1,810 @@
+
+
+ File di LOG aperto in 08/21/25 10:38:38
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 10:38:38
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+
+
+ File di LOG aperto in 08/21/25 10:38:38
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 10:38:38
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+
+
+ File di LOG aperto in 08/21/25 10:40:37
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 10:40:37
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 10:40:37
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 10:40:37
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 11:17:15
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 11:17:15
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 11:17:15
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 11:17:15
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 11:17:30
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 11:17:30
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 11:17:30
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 11:17:30
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 12:46:01
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 12:46:01
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 12:46:01
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 12:46:01
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 12:46:07
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 12:46:07
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 14:15:46
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 14:15:46
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 14:15:46
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 14:15:46
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 14:33:46
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 14:33:46
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 14:33:46
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 14:33:46
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 15:01:20
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 15:01:20
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 15:01:20
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 15:01:20
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 15:03:01
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 15:03:01
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 15:03:01
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 15:03:01
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 17:08:36
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 17:08:36
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/21/25 17:08:36
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/21/25 17:08:36
+
+File errato: EXT_DATI_BAD.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
+
+
+ File di LOG aperto in 08/25/25 16:05:53
+
+Numero totale di file=1
+
+File di dati: dati.csv
+
+File di log: EXT_DATI_LOG.log
+
+
+
+ File di LOG aperto in 08/25/25 16:05:53
+
+File errato: bad_external_t.bad
+
+Definizioni dei campi per la tabella EXT_TABLE
+  Formato record DELIMITED BY NEWLINE
+  I dati del file presentano lo stesso tipo di formato endian della piattaforma
+  Sono accettate le righe con tutti i campi nulli
+
+  Campi dell'origine di dati: 
+
+    CF                              CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    NOME                            CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    COGNOME                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+    SALARIO                         CHAR (255)
+      Terminato da ";"
+      Rimuovi spazio vuoto come in SQL Loader
+errore durante l'elaborazione della colonna CF nella riga 2 per il file di dati c:\esercizioAgostino\data\dati.csv
+ORA-12899: value too large for column CF (actual: 188, maximum: 100)
