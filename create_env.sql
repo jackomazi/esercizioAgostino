@@ -7,6 +7,8 @@ funzioni/procedure necessarie per il controllo dei
 dati (CREATE_ENV.sql).
 -
 */
+-- CIAOO
+
 WHENEVER SQLERROR EXIT SQL.SQLCODE
 WHENEVER OSERROR EXIT 9
 
