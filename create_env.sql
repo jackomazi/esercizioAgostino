@@ -7,7 +7,6 @@ funzioni/procedure necessarie per il controllo dei
 dati (CREATE_ENV.sql).
 -
 */
--- CIAOO
 
 WHENEVER SQLERROR EXIT SQL.SQLCODE
 WHENEVER OSERROR EXIT 9
@@ -217,4 +216,5 @@ CREATE OR REPLACE PACKAGE BODY carica.pkg_controls_01 AS
 	*/
 END;
 /
+
 exit;
